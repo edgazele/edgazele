@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edgars Zelenko
 - 👀 I’m interested in programming dictionaries
-- 🌱 I’m currently learning Pythhon
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on dictionaries
 - 📫 How to reach me: edzel4@inbox.lv
 
